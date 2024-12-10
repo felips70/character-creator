@@ -6,3 +6,12 @@
   text-align: center;
 }
 
+.link {
+  color: hsl(0deg, 100%, 100%);
+}
+
+@media (max-width: 480px) {
+  .footer {
+    display: none;
+  }
+}

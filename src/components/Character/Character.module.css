@@ -2,3 +2,10 @@
   /* Fill the available container height */
   height: 100%;
 }
+
+@media (max-width: 480px) {
+  .character {
+    margin-top: 200px;
+    margin-left: 50px;
+  }
+}
